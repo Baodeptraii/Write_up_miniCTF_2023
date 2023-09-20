@@ -1,0 +1,8 @@
+Where are the robots ? I dont know
+Try to add "robots.txt" after web IP on the search bar
+We'll see it direct us to another page will this text:
+User-agent: *
+Disallow: /8028f.html 
+Replace "robots.txt" with "/8028f.html", it show us the flag
+flag : miniCTF{ca1cu1at1ng_Mach1n3s_8028f}
+
