@@ -1,0 +1,4 @@
+You can't open this image right?
+Use the any tool to see it "file signature"
+Is it JPG or not ? If not, try to re-write this hex , export the image again, i bet you will see the flag
+flag: miniCTF{nemu_nemu_nyanko}
